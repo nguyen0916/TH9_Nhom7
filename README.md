@@ -8,11 +8,10 @@
 
 | STT | Họ và tên | Mã số sinh viên | Vai trò |
 | :--- | :--- | :--- | :--- |
-| 1 | *[Điền tên thành viên 1]* | *[Điền MSSV]* | Nhóm trưởng |
-| 2 | *[Điền tên thành viên 2]* | *[Điền MSSV]* | Thành viên |
-| 3 | *[Điền tên thành viên 3]* | *[Điền MSSV]* | Thành viên |
-| 4 | *[Điền tên thành viên 4]* | *[Điền MSSV]* | Thành viên |
-| 5 | *[Điền tên thành viên 5]* | *[Điền MSSV]* | Thành viên |
+| 1 | *Lê Đức Nguyên* | *B2611268* | Nhóm trưởng |
+| 2 | *Lê Bảo Quốc* | *B2611272* | Thành viên |
+| 3 | *Võ Trọng Nhận* | *B2611270* | Thành viên |
+| 4 | *Trần Thanh Thảo Quyên* | *B2611273* | Thành viên |
 
 ---
 
