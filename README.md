@@ -32,7 +32,7 @@
 | **Tiết 2** | Tự rèn kỹ năng bảo mật tài khoản | Minh chứng bật 2FA & Checklist "Quy tắc bảo mật tài khoản" | `Lab9_tiet2.docx` | ✅ Hoàn thành |
 | **Tiết 3** | Nhận diện lừa đảo & nguy cơ online | Báo cáo "5 dấu hiệu nhận biết email/website lừa đảo" | `nhom7_bai3_th9.docx` | ✅ Hoàn thành |
 | **Tiết 4** | Tự quản lý sức khỏe số | Nhật ký online/offline & Poster "Sống lành mạnh trong kỷ nguyên số" | `Lab09_Tiet4_Tu_Quan_Ly_Suc_Khoe_So.docx` | ✅ Hoàn thành |
-| **Tiết 5** | Dự án tình huống & phản biện | Kịch bản tình huống / Video ngắn & phần phản biện | *[Cập nhật tên tệp sau]* | ⏳ Đang thực hiện |
+| **Tiết 5** | Dự án tình huống & phản biện | Kịch bản tình huống / Video ngắn & phần phản biện | *[Cập nhật tên tệp sau]* |  ✅ Hoàn thành  |
 
 ---
 
